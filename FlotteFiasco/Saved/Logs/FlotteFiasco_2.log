@@ -1156,3 +1156,10 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.22-20.04.12:670][686]LogSlate: Window 'Journal des messages' being destroyed
 [2025.09.22-20.04.13:502][786]LogSlate: Window 'Plug-ins' being destroyed
 [2025.09.22-20.04.13:507][786]LogSlate: Window 'Plug-ins' being destroyed
+[2025.09.22-20.05.13:726][ 75]LogDerivedDataCache: C:/Users/2339482/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.22-20.08.26:847][655]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 309.386292
+[2025.09.22-20.08.27:849][658]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-20.08.27:849][658]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 310.053009, Update Interval: 329.059723
+[2025.09.22-20.13.58:925][651]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 641.451965
+[2025.09.22-20.13.59:923][654]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-20.13.59:923][654]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 642.118042, Update Interval: 334.727020
