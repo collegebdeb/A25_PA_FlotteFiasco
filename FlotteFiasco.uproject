@@ -41,6 +41,30 @@
 		{
 			"Name": "RawInput",
 			"Enabled": true
+		},
+		{
+			"Name": "AndroidGoodies",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2775bb4f59e5498bb040d1e48767ea03"
+		},
+		{
+			"Name": "FirebaseGoodies",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/a972a30efb2747ce98fce6b92cc35377"
+		},
+		{
+			"Name": "IOSGoodies",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/34bf1a00320e4628b96d588ac275fa24"
+		},
+		{
+			"Name": "BlueprintHttp",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/298d4c62cda4494fb5931659cdf75ab7"
+		},
+		{
+			"Name": "EasyFixAndroidPermission",
+			"Enabled": true
 		}
 	]
 }
